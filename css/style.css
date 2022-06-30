@@ -1,0 +1,67 @@
+@media screen and 
+(max-width: 1024px) { .hero
+    {
+
+    background-color:blue;
+    }
+}
+    
+
+.hero{
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    background-color: green;
+}
+.hero h1{
+    text-align: center;
+    display: inline-block;
+    margin-top: 15%;
+   
+}
+
+.sec1{
+    height: 450px;
+    width: 100%;
+    
+}
+
+.sec1 h2{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 5%;
+}
+
+.sec1 p{
+    text-align: center;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.sec2{
+    height: 450px;
+    width: 100%;
+}
+
+.sec2 .headtwo{
+    font-size: 20px;
+    text-align: right;
+    margin-right: 5%;
+}
+
+.sec2 p{
+    text-align: center;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+footer{
+    height: 200px;
+    width: 100%;
+    background-color: green;
+}
+footer, .head3{
+    text-align: center;
+    display: inline-block;
+    margin-top: 5%;
+    
+}
