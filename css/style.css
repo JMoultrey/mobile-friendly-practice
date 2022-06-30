@@ -1,3 +1,12 @@
+@media screen and 
+(max-width: 1024px) { .hero
+    {
+
+    background-color:blue;
+    }
+}
+    
+
 .hero{
     height: 500px;
     width: 100%;
@@ -50,9 +59,9 @@ footer{
     width: 100%;
     background-color: green;
 }
-footer .head3{
+footer, .head3{
     text-align: center;
     display: inline-block;
-    margin-bottom: 15%;
+    margin-top: 5%;
     
 }
